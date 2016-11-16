@@ -1,0 +1,23 @@
+{
+  "name": "co-example",
+  "version": "1.0.0",
+  "description": "An example controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limingtech-front-end/co-example"
+  },
+  "keywords": [
+    "example",
+    "controller"
+  ],
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/co-example/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/co-example#readme"
+}
